@@ -1,2 +1,3 @@
 spring boot app is going to kill the entire app
 hello its prem
+echo "BUILD_ID is ${BULD_ID}"
